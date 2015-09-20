@@ -1,5 +1,5 @@
 #Suggestions for color schemes
 
-https://coolors.co/app/68c170-1c7c54-d6d1b1-eef5db-f7f7f7
-https://coolors.co/app/68c170-93827f-d6d1b1-eef5db-f7f7f7
-https://coolors.co/app/68c170-6c5353-ac9393-d6d1b1-eef5db
+* https://coolors.co/app/68c170-1c7c54-d6d1b1-eef5db-f7f7f7
+* https://coolors.co/app/68c170-93827f-d6d1b1-eef5db-f7f7f7
+* https://coolors.co/app/68c170-6c5353-ac9393-d6d1b1-eef5db
